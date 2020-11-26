@@ -1,0 +1,1 @@
+Check in whether it will commit content to tele-repository after committing content to local-repository.
